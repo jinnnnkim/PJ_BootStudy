@@ -567,4 +567,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+**.yml
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,eclipse,windows,vs,intellij+iml
