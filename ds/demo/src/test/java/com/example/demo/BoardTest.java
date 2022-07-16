@@ -30,7 +30,7 @@ public class BoardTest {
 		// 빌더 패턴으로 생성된 객체를 저
 		boardRepo.save(params);
 	}
-	//source tree test
+
 	@Test
 	void find() {
 		Long id = 1L;
